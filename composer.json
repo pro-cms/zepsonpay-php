@@ -1,0 +1,19 @@
+{
+    "name": "zepson/zepsonpay-php",
+    "description": "This is the official package to help integration of Zepson pay service to your php based application much faster and easy.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zepson\\ZepsonpaySDK\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Novath Thomas",
+            "email": "57701433+pro-cms@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
