@@ -5,7 +5,7 @@ namespace Zepson\ZepsonpaySDK;
 class ZepsonPay
 {
 
-    const BASE_URL = "http://41.59.112.185/api/v1/";
+    const BASE_URL = "https://zepsonpay.com/api/v1/";
 
 
 
