@@ -198,6 +198,7 @@ Contributions are always welcome to help make the package more user friendly!
 ## Authors
 
 - [@pro-cms](https://www.github.com/pro-cms)
+- [@shafiqismail2022](https://www.github.com/shafiqismail2022)
 - [@pbijampola](https://www.github.com/pbijampola)
 - [@Zepson-Tech](https://www.github.com/Zepson-Tech)
 ## License
